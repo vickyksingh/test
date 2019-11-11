@@ -1,0 +1,20 @@
+1) Create GIT reposetry 
+>go to the file direcory
+>git init(to make normal folder to git reposetry )
+>git status(current folder status)
+>git log or git add.(for all files)
+>git add <file name>
+>git commit -m 'message"
+>> In git repo the default branch is master branch.
+>git tag <tagename> -m 'tag1>(to add tag with version)
+>git tag1 checkout(to see the previous version)
+> git init --bare(only we can push file here)
+>git branch(list of the branch, * indicate current branch)
+>git branch <branch name>
+>git checkout <branch name>
+>git merge master.
+>git clone "reposetry"
+>git push----move a branch content to another repository.
+git pull --take the contents from another reps branch.
+>git remote add origin 'url'
+>git push origin master
